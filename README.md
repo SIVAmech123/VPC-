@@ -1,6 +1,5 @@
 ## Ex 4 Deployment and configuration of a Private Cloud in AWS
-## NAME: DHINESH S
-## REG NO: 212224220025
+
 ## Aim:
 To set up of a Private Cloud in AWS.
 
